@@ -20,7 +20,7 @@ Application URL: https://www.saucedemo.com/
 - Add to Cart functionality
 - Product sorting
 - Checkout functionality
-- Login validation
+- Login validation( not run)
 
 ## Tools Used
 - SauceDemo
